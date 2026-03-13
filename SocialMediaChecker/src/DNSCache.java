@@ -2,7 +2,7 @@ import java.util.*;
 
 class DNSEntry {
     static void main() {
-        
+
     }
     String domain;
     String ipAddress;
